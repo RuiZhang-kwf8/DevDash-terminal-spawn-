@@ -1,0 +1,26 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/ruiyu/Downloads/DevDash-terminal-spawn-/trading_engine/src/benchmark.cpp" "CMakeFiles/trading_engine.dir/src/benchmark.cpp.o" "gcc" "CMakeFiles/trading_engine.dir/src/benchmark.cpp.o.d"
+  "/Users/ruiyu/Downloads/DevDash-terminal-spawn-/trading_engine/src/main.cpp" "CMakeFiles/trading_engine.dir/src/main.cpp.o" "gcc" "CMakeFiles/trading_engine.dir/src/main.cpp.o.d"
+  "/Users/ruiyu/Downloads/DevDash-terminal-spawn-/trading_engine/src/orderbook.cpp" "CMakeFiles/trading_engine.dir/src/orderbook.cpp.o" "gcc" "CMakeFiles/trading_engine.dir/src/orderbook.cpp.o.d"
+  "/Users/ruiyu/Downloads/DevDash-terminal-spawn-/trading_engine/src/trading_engine.cpp" "CMakeFiles/trading_engine.dir/src/trading_engine.cpp.o" "gcc" "CMakeFiles/trading_engine.dir/src/trading_engine.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

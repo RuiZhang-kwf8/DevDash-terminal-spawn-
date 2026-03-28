@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/trading_engine.dir/src/main.cpp.o CMakeFiles/trading_engine.dir/src/benchmark.cpp.o CMakeFiles/trading_engine.dir/src/orderbook.cpp.o CMakeFiles/trading_engine.dir/src/trading_engine.cpp.o -o trading_engine
